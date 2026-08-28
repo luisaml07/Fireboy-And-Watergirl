@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Cormorant Unicase, Static;
+    font-size: 16px ;
+    line-height: 1-7;
+    color:#444;
+    background-color: #f9f7f3
+}
+
+h1, h1, h3, .logo {
+    font-family: Uncial Antiqua, Static;
+    font-weight: 700px ;
+    color: #2a2a2a
+}
